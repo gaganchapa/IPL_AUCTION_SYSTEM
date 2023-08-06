@@ -56,5 +56,3 @@ presented again later for the auction.
 to their respective Team Stack.
 
 
-## License
-[IPL](https://github.com/Singhsansar/IPL-Auction-System)
